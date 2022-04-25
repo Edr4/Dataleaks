@@ -5,10 +5,10 @@
 - weleakinfo - https://weleakinfo.to
 - leakpeek - https://leakpeek.com
 - snusbase - https://snusbase.com
-- GlobaLeaks - https://lnkd.in/gJqT83f
-- Firefox Monitor - https://lnkd.in/gW7EqXr
-- haveibeenpwned? - https://lnkd.in/gMKpTef
-- ScatteredSecrets - https://lnkd.in/gZM6-7j
+- GlobaLeaks - https://www.globaleaks.org/
+- Firefox Monitor - https://monitor.firefox.com/
+- haveibeenpwned? - https://haveibeenpwned.com/
+- ScatteredSecrets - https://scatteredsecrets.com/
 - AmIBreched - https://amibreached.com
 - Leak Lookup - https://leak-lookup.com
 - Breach Checker - https://breachchecker.com
