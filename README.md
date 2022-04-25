@@ -14,3 +14,4 @@
 - Breach Checker - https://breachchecker.com
 - RSLookup - https://rslookup.com
 - Breachdirectory - https://breachdirectory.org/
+- Avast - https://www.avast.com/hackcheck
