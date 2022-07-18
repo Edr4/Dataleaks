@@ -1,4 +1,4 @@
-# DataBreach-Search
+# Dataleaks-Search
 
 - Intelligence X - https://intelx.io
 - Dehashed https://www.dehashed.com/
