@@ -1,6 +1,7 @@
 # DataBreach-Search
 
 - Intelligence X - https://intelx.io
+- Dehashed https://www.dehashed.com/
 - leakcheck - https://leakcheck.io
 - weleakinfo - https://weleakinfo.to
 - leakpeek - https://leakpeek.com
